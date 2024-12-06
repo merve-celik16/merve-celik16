@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben [Adınız]!
+# 👋 Merhaba, Ben Merve!
 
 ### 🚀 Hakkımda
 - 🎓 **Eğitim ve Deneyim**: Biyomedikal mühendisliği mezunuyum ve sektörde 2+ yıl deneyim kazandım. Şimdi yazılım geliştirme alanına odaklanıyorum.  
@@ -22,7 +22,7 @@
 ### 📫 Bana Ulaşın
 - 
 - 📧 Email: mervedursunn34@gmail.com  
-- 💼 [LinkedIn](linkedin.com/in/merve-çelik-737651189)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/merve-çelik-737651189)  
 - 🐦 [Instagram](https://www.instagram.com/mervedrsuunn)  
 - 📘 [GitHub](https://www.github.com/merve-celik16)
 
