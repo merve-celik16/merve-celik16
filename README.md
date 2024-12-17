@@ -1,23 +1,40 @@
-# 👋 Merhaba, Ben Merve!
+# Merhaba, Ben Merve! 👋  
+
+🎓 **Biyomedikal Mühendisliği Mezunu**  
+💻 Şu anda **Patika.dev** platformunda yazılım eğitimi alıyorum.  
+
+---
 
 ### 🚀 Hakkımda
-- 🎓 **Eğitim ve Deneyim**: Biyomedikal mühendisliği mezunuyum ve sektörde 2+ yıl deneyim kazandım. Şimdi yazılım geliştirme alanına odaklanıyorum.  
-- 💻 **Şu Anki Çalışmalarım**: **Algoritma tasarımı**, **problem çözme** ve **web uygulamaları** konularında kendimi geliştiriyorum.  
+- Biyomedikal mühendisliği alanındaki altyapımı teknoloji ve yazılımla birleştirerek, **yenilikçi çözümler** üretmeyi hedefliyorum. Yazılım geliştirme alanında **problem çözme** ve **algoritma tasarımı** konularına ilgi duyuyor, özellikle **web geliştirme** teknolojilerine odaklanıyorum.
 - 🎯 **Hedefim**: Teknoloji ve mühendislik bilgilerimi birleştirerek yenilikçi çözümler üretmek ve gerçek dünyadaki sorunlara etkili çözümler sunmak.
 
 ---
 
-### 🔧 Teknolojiler ve Araçlar
-- **Diller**: C# 
-- **Frameworkler**: ASP.NET Core 
-- **Veritabanı**: SQL,  
+## 🛠 Öğrenmekte Olduğum Teknolojiler  
+- **Programlama Dilleri:** C#  
+- **Veritabanı Yönetimi:** SQL  
+- **Web Geliştirme:** ASP.NET  
+- **ORM Teknolojisi:** Entity Framework Core (EF Core)  
 - **Araçlar**: Git, Visual Studio 
  
 
 ---
 
+## 📚 Eğitim ve Öğrenme Sürecim  
+- [Patika.dev](https://www.patika.dev/) platformu üzerinden yazılım geliştirme eğitimleri alıyorum.  
+- Kendi projelerimi geliştirerek pratik yapıyorum.  
 
+---
 
+## 🌱 Üzerinde Çalıştığım Projeler  
+| Proje Adı                  | Açıklama                                                                 | Teknolojiler              |
+|----------------------------|-------------------------------------------------------------------------|---------------------------|
+| **Code First EF Core**     | Code First yaklaşımı ile Entity Framework kullanarak veri tabanı oluşturma | C#, ASP.NET, EF Core, SQL |
+| **Web Uygulaması**         | Basit bir ASP.NET MVC ile CRUD işlemleri yapan web uygulaması             | ASP.NET, C#, SQL          |
+| **Konsol Uygulaması**      | Algoritma tasarımına yönelik pratik konsol uygulamaları                  | C#                        |
+
+---
 
 ### 📫 Bana Ulaşın
 - 
@@ -35,4 +52,4 @@
 
 ---
 
-
+🚀 *Kendimi geliştirmeye ve öğrenmeye devam ediyorum. Yazılım dünyasında öğrendiklerimi projelerime yansıtarak, ileride büyük projelerde yer almayı hedefliyorum!*
